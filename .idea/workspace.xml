@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85fb728a-42ff-4402-b155-564052909d24" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/first_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interactive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive.py" beforeDir="false" afterPath="$PROJECT_DIR$/interactive.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,8 +97,8 @@
       <file leaf-file-name="interactive.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/interactive.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="224">
+              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -332,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525839944089</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="more python learning">
+      <created>1525914165232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525914165232</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -364,7 +369,8 @@
     <MESSAGE value="one more update" />
     <MESSAGE value="first lesson, basic variables" />
     <MESSAGE value="many many files" />
-    <option name="LAST_COMMIT_MESSAGE" value="many many files" />
+    <MESSAGE value="more python learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="more python learning" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/first_list.py">
@@ -530,8 +536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interactive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="224">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
         </state>
       </provider>
     </entry>

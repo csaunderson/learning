@@ -15,14 +15,14 @@ while userCount < 5:
     userName = input("What is your name, loser? ")
     print("Disappointed to meet you, ", userName)
     if userName == "Bob":
-        print("Nice tits, Bob")
+        print("Nice face, Bob")
         userCount = userCount + 1
 
     elif userName == "Alice":
-        print("Nicer tits, Alice")
+        print("Nicer face, Alice")
         userCount = userCount + 1
 
     else:
-        print("What are tits?")
+        print("What are nose?")
         userCount = userCount + 1
 
