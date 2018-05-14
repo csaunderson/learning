@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85fb728a-42ff-4402-b155-564052909d24" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/first_open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_readlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonnet29.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,33 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="first_class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="first_library.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_library.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="second_library.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/second_library.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="first_boolean.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_boolean.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +69,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="first_open.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="first_open.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_open.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="second_open.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second_open.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sonnet29.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sonnet29.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first_readlines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first_readlines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="89" selection-start-column="89" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -135,6 +136,9 @@
         <option value="$PROJECT_DIR$/first_variable.py" />
         <option value="$PROJECT_DIR$/interactive.py" />
         <option value="$PROJECT_DIR$/first_open.py" />
+        <option value="$PROJECT_DIR$/second_open.py" />
+        <option value="$PROJECT_DIR$/sonnet29.txt" />
+        <option value="$PROJECT_DIR$/first_readlines.py" />
       </list>
     </option>
   </component>
@@ -178,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.second_open">
+  <component name="RunManager" selected="Python.first_readlines">
     <configuration name="first_open" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,7 +201,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="first_relational_operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_readlines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +213,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_relational_operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_readlines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,19 +274,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.first_relational_operators" />
       <item itemvalue="Python.first_variable" />
       <item itemvalue="Python.interactive" />
       <item itemvalue="Python.first_open" />
       <item itemvalue="Python.second_open" />
+      <item itemvalue="Python.first_readlines" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.first_readlines" />
         <item itemvalue="Python.second_open" />
         <item itemvalue="Python.first_open" />
         <item itemvalue="Python.interactive" />
         <item itemvalue="Python.first_variable" />
-        <item itemvalue="Python.first_relational_operators" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525914165232</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="opening a file now.">
+      <created>1526266089239</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526266089239</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -373,7 +384,8 @@
     <MESSAGE value="first lesson, basic variables" />
     <MESSAGE value="many many files" />
     <MESSAGE value="more python learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="more python learning" />
+    <MESSAGE value="opening a file now." />
+    <option name="LAST_COMMIT_MESSAGE" value="opening a file now." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/first_input.py">
@@ -617,7 +629,28 @@
     <entry file="file://$PROJECT_DIR$/first_open.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_open.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonnet29.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_readlines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="89" selection-start-column="89" selection-end-column="89" />
         </state>
       </provider>
     </entry>
