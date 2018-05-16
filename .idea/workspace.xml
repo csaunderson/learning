@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85fb728a-42ff-4402-b155-564052909d24" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/first_shelve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fourth_shelve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second_shelve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_shelve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,56 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="first_readlines.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_readlines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="first_write.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_write.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="first_shelve.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_shelve.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="second_shelve.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/second_shelve.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="third_shelve.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/third_shelve.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fourth_shelve.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fourth_shelve.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fourth_shelve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+            <state relative-caret-position="105">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -74,9 +34,85 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="quiz_35.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quiz_35.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_input.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_input.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_loop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="second_loop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="third_loop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string_loop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first_range.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first_range.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first_while.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first_while.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first_break.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first_break.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -118,11 +154,20 @@
         <option value="$PROJECT_DIR$/second_shelve.py" />
         <option value="$PROJECT_DIR$/third_shelve.py" />
         <option value="$PROJECT_DIR$/fourth_shelve.py" />
+        <option value="$PROJECT_DIR$/quiz_35.py" />
+        <option value="$PROJECT_DIR$/new_input.py" />
+        <option value="$PROJECT_DIR$/new_loop.py" />
+        <option value="$PROJECT_DIR$/second_loop.py" />
+        <option value="$PROJECT_DIR$/third_loop.py" />
+        <option value="$PROJECT_DIR$/string_loop.py" />
+        <option value="$PROJECT_DIR$/first_range.py" />
+        <option value="$PROJECT_DIR$/first_while.py" />
+        <option value="$PROJECT_DIR$/first_break.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
+    <option name="x" value="79" />
     <option name="y" value="47" />
     <option name="width" value="1278" />
     <option name="height" value="701" />
@@ -161,8 +206,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fourth_shelve">
-    <configuration name="first_shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.first_try">
+    <configuration name="first_break" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,13 +219,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_shelve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="first_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,13 +237,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fourth_shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,13 +255,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fourth_shelve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="second_shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,13 +273,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second_shelve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="third_shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="string_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,26 +291,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_shelve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.first_write" />
-      <item itemvalue="Python.first_shelve" />
-      <item itemvalue="Python.second_shelve" />
-      <item itemvalue="Python.third_shelve" />
-      <item itemvalue="Python.fourth_shelve" />
+      <item itemvalue="Python.string_loop" />
+      <item itemvalue="Python.first_range" />
+      <item itemvalue="Python.first_while" />
+      <item itemvalue="Python.first_break" />
+      <item itemvalue="Python.first_try" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fourth_shelve" />
-        <item itemvalue="Python.third_shelve" />
-        <item itemvalue="Python.second_shelve" />
-        <item itemvalue="Python.first_shelve" />
-        <item itemvalue="Python.first_write" />
+        <item itemvalue="Python.first_try" />
+        <item itemvalue="Python.first_break" />
+        <item itemvalue="Python.first_while" />
+        <item itemvalue="Python.first_range" />
+        <item itemvalue="Python.string_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -343,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526267609651</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="opening a file now.">
+      <created>1526268319249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526268319249</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="47" width="1278" height="701" extended-state="0" />
+    <frame x="79" y="47" width="1278" height="701" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960877" />
@@ -381,20 +433,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="opening a file now." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/first_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first_library.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -680,11 +718,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fourth_shelve.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz_35.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
